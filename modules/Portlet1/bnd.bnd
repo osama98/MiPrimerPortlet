@@ -1,0 +1,6 @@
+Bundle-Name: Portlet1
+Bundle-SymbolicName: com.fihoca.formacion
+Bundle-Version: 1.0.0
+Export-Package: com.fihoca.formacion.constants
+
+Include-Resource: @commons-csv-1.3.jar
